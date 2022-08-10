@@ -1,4 +1,3 @@
-clear
 echo MY-VSCODE-EXTENSION-FOR-WINDOWS
 echo BY Leaf developer
 echo 使用前请确认你的vscode已加入环境变量，可在命令行中使用".code"命令检查
