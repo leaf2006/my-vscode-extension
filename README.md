@@ -62,4 +62,6 @@ Windows用户请打开Windows目录下的install.bat
 
 如果你是Linux或者Mac用户请打开Linux&Mac下的install.sh
 
+**注：请使用GB2312、GBK等打开和保存脚本源码**
+
 ## Thanks
